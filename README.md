@@ -1,2 +1,16 @@
 # GraduationProject
-Distributed IoT Project for face recognation with Raspberry Pi
+
+
+
+## Özet?
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/34112198/72574691-f0ab3700-38da-11ea-9a25-aec4b95bb640.png">
+</p>
+
+> Yapılan ilgili çalışma sonucu ortaya çıkardığımız Yüz Tanıma ile Öğrenci Yoklama ve Yönetim Sistemi veri tabanı, mobil uygulama ve Raspberry PI üzerine entegre edilen yüz tanıma modeli ile eş zamanlı çalışan karmaşık bir yapı olmakla beraber günümüzde benzerine az rastlanan bir sistemler bütünüdür.
+
+> Projemiz eğitim kurumlarında öğrencilerin devamlılığının sağlanabilmesi için geliştirilen çözüm yollarından biri olan öğrenci yoklamasının daha hızlı ve modüler olmasını sağlayan bir sistemdir. Projemiz maddi katkıların yanı sıra zaman kaybını engelleyerek dersin verimliliği arttırmaktadır. Yüz Tanıma ve Öğrenci Yoklama ve Yönetim Sistemi Projemiz kamera modülünden alınan verileri bilgisayar içerisinde bulunan eğitilmiş modelimizde işlenerek anlık olarak tanınan yüzleri veri tabanına göndermektedir. Gönderilen veriler mobil uygulama yardımıyla kullanıcı tarafından erişilebilir ve belgelendirilebilir. Yaptığımız testler sonucunda sistemin %90 üzerinde başarı sağladığını gözlemledik. Oluşan kaybın bir bölümü yeni yüz kaydı sırasında oluşan yüzün kayması, yüzün kamera açısından çıkması, kameranın tozlu ya da kirli olması vb. durumlardan kaynaklanmaktadır. Olası kaybın diğer bir bölümü ise sistemin kullanıldığı yerin ışık miktarının yetersiz olması, öğrencinin bulunduğu sınıf içi konumunun kameradan uzak mesafede olması vb. durumlardan kaynaklanmaktadır. Projemizde kullanılan donanımların daha gelişmiş versiyonlarının kullanılması hata payını oldukça düşürecektir. Projemizde gelinen son noktada manuel olarak çalışmakta olup gerekli zaman ve imkanlar dahilinde otomatik bir sistem gerçeklenebilir.
+
+
+<img src="https://user-images.githubusercontent.com/34112198/72574928-e473a980-38db-11ea-84b5-067201ec2827.png" width="280" height="250"> <img src="https://user-images.githubusercontent.com/34112198/72574964-ffdeb480-38db-11ea-96e0-621282d90c9e.png" width="280" height="250"> <img src="https://user-images.githubusercontent.com/34112198/72574896-ce65e900-38db-11ea-9c2d-43a553404822.png" width="280" height="250">
