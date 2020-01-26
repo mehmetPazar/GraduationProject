@@ -32,4 +32,12 @@
 
 ### Kurulum : 
 
-      asdasdasd
+    1. Gereklilikleri yükleyin
+
+    2. Pretrained modeli indirin: https://drive.google.com/file/d/0Bx4sNrhhaBr3TDRMMUN3aGtHZzg/view?usp=sharing
+
+    3. Main.py çalıştırın
+
+### Gereksinimler ve Bağımlılıklar : 
+
+    Python3 (3.5 ++ is recommended)
