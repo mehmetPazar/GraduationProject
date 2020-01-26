@@ -33,11 +33,17 @@
 ### Kurulum : 
 
     1. Gereklilikleri yükleyin
-
     2. Pretrained modeli indirin: https://drive.google.com/file/d/0Bx4sNrhhaBr3TDRMMUN3aGtHZzg/view?usp=sharing
-
     3. Main.py çalıştırın
 
 ### Gereksinimler ve Bağımlılıklar : 
 
     Python3 (3.5 ++ is recommended)
+    opencv3
+    numpy
+    tensorflow ( 1.1.0-rc or  1.2.0 is recommended )
+    
+### Credits:
+
+    -  Pretrained model : https://github.com/davidsandberg/facenet
+    -  https://github.com/vudung45/FaceRec
