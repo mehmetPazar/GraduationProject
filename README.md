@@ -15,3 +15,21 @@
 ## Demo
 
 <img src="https://user-images.githubusercontent.com/34112198/72574928-e473a980-38db-11ea-84b5-067201ec2827.png" width="280" height="250"> <img src="https://user-images.githubusercontent.com/34112198/72574964-ffdeb480-38db-11ea-96e0-621282d90c9e.png" width="280" height="250"> <img src="https://user-images.githubusercontent.com/34112198/72574896-ce65e900-38db-11ea-9c2d-43a553404822.png" width="280" height="250">
+
+### Kullanılan Modeller
+
+Yüz tanıma mimarisi --> Facenet Inception Resnet V1
+Pretrained model --> Davidsandberg repo
+Daha fazla bilgi --> https://arxiv.org/abs/1602.07261
+
+Face detection methodu --> MTCNN
+Daha fazla bilgi --> https://kpzhang93.github.io/MTCNN_face_detection_alignment/
+
+### Framework ve Library
+
+Tensorflow: The infamous Google's Deep Learning Framework
+OpenCV: Image processing
+
+### Kurulum : 
+
+      asdasdasd
